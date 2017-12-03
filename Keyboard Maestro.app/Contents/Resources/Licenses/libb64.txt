@@ -1,2 +1,0 @@
-Public domain parts of the libb64 project have been used.
-For details, see <http://sourceforge.net/projects/libb64>
